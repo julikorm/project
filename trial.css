@@ -124,7 +124,7 @@
   }
 
   
-  .bg-img {
+/*   .bg-img {
     /* The image used */
     background-image: url("mit2.jpg");
     background-position: center;
@@ -132,7 +132,7 @@
     background-size: cover;
     position: relative;
     width: 100%;
-  }
+  } */
   
   /* Add styles to the form container */
   .container {
