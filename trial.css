@@ -256,3 +256,7 @@
     width: 100%;
   }
   
+.mitimg {
+    float: left;
+    width: 75%;
+}
